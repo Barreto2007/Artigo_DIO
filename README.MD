@@ -78,7 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspManuela Bertella Ossanes<br>
     &nbsp&nbsp&nbsp
-    <a href="https://avatars.githubusercontent.com/u/80135269?v=4">
+    <a href="https://github.com/manuabigsz">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/manuela-bertella-ossanes-690166204/">LinkedIn</a>
 &nbsp;|&nbsp;
